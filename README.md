@@ -87,6 +87,12 @@ Download the `.deb` package from the [**GitHub Releases page**](https://github.c
 sudo dpkg -i /path/to/mprisence_*.deb
 ```
 
+#### Void Linux
+
+```bash
+sudo xbps-install -S mprisence
+```
+
 ### Manual Installation
 
 This method is for other Linux distributions, or if you prefer to install from source or crates.io. It requires a few manual setup steps.
